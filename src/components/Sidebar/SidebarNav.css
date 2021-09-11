@@ -1,0 +1,16 @@
+
+.sidebar-nav {
+    vertical-align: middle;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.sidebar-nav__icon{
+    /* display: inline-block; */
+    margin-right: 20px;
+}
+
+.sidebar-nav__text{
+    display: inline-block;
+}
