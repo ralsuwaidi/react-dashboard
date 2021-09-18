@@ -1,11 +1,11 @@
 import './MainWindow.css'
-import Search from "react-searchbox-awesome";
+import SearchBar from './SearchBar';
 
 const MainWindow = () => {
 
     return (
-        <div>
-            <Search />
+        <div className="main">
+            <SearchBar className=''/>
         </div>
     )
 
