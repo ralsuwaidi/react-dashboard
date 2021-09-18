@@ -1,0 +1,11 @@
+.wrapper{
+    overflow: auto;
+}
+
+.sidebar__wrapper{
+    float: left;
+}
+
+.main{
+    float: right;
+}
