@@ -3,8 +3,8 @@
     width: 75%;
     float: right;
     height: 100vh;
-    padding: 30px;
     padding-left: 6vw;
+    padding-top: 6vh;
 }
 
 .main__title{
@@ -14,4 +14,10 @@
 
 .main__subtitle{
     opacity: 0.5;
+}
+
+.main__filter{
+    border-radius: 25px;
+    border: 2px solid #d4d4d4;
+    padding: 20px;
 }
